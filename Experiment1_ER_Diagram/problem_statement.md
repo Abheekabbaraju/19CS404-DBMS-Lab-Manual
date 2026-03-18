@@ -1,7 +1,7 @@
 # ER Diagram Workshop – Submission Template
 
-## Name : HARIRAM R
-## Reg No : 212224240050
+## Name : ABHEEK A
+## Reg No : 212224100001
 
 ## Objective
 To understand and apply ER modeling concepts by creating ER diagrams for real-world applications.
